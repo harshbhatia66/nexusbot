@@ -43,3 +43,5 @@ class Segmenter:
             segment.export(segment_file, format="wav")
             with open(transcript_file, "w") as f:
                 f.write(tc[2])
+
+

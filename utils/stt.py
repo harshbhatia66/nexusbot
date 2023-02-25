@@ -13,4 +13,5 @@ def transcribe_audio(model_name: str, file_path: str, output_dir: str):
     writer = WriteSRT(output_dir)
     with open(file_name, "w") as f:
         writer.write_result(result, f)
+        print(f"Finished {file_name}")
         

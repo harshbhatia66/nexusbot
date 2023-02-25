@@ -1,0 +1,9 @@
+contextlib2
+natsort
+pydub
+speechbrain
+torch
+torchaudio
+whisper
+ffmpeg
+transformers

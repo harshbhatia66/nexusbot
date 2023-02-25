@@ -64,4 +64,6 @@ fi
 if [ -n "${BASH:-}" -o -n "${ZSH_VERSION:-}" ] ; then
     hash -r 2> /dev/null
 fi
-export PATH="/opt/homebrew/bin/git-lfs:$PATH"
+export PYTHONPATH=$PYTHONPATH:/Users/harshbhatia/Documents/nexusbot/utils
+
+export PYTHONPATH=$PYTHONPATH:/opt/homebrew/bin/ffmpeg
