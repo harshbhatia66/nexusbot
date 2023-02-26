@@ -66,4 +66,3 @@ if [ -n "${BASH:-}" -o -n "${ZSH_VERSION:-}" ] ; then
 fi
 export PYTHONPATH=$PYTHONPATH:/Users/harshbhatia/Documents/nexusbot/utils
 
-export PYTHONPATH=$PYTHONPATH:/opt/homebrew/bin/ffmpeg

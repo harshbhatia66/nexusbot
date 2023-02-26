@@ -43,6 +43,14 @@ class SpeakerVerification:
         return is_speaker
 
     def create_metadata_table(self, metadata_db_path):
+        """
+        Structure of the metadata database:
+        CREATE TABLE speaker_files (
+            id INTEGER PRIMARY KEY,
+            file_path TEXT NOT NULL,
+            is_speaker INTEGER NOT NULL
+            );
+        """
         # Connect to the SQLite database
         conn = sqlite3.connect(metadata_db_path)
         c = conn.cursor()
