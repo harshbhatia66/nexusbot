@@ -1,8 +1,8 @@
-Creating an AI human
+Creating an AI Generated Personalities
 
 Project - Digital Construct AI
 
-The idea is to create an AI human. This would be a complex project, requiring the development and integration of several different components, such as voice cloning speech synthesis, cloning facial animation, lip sync, integration, and personality construction. The goal is to create an AI system that can mimic human speech and facial expressions, and have a personality that resembles a real person. The project would require large amounts of data, powerful computing resources, and specialized algorithms.
+The idea is to generate an AI clone based on the existing data on an individual. This would be a complex project, requiring the development and integration of several different components, such as voice cloning speech synthesis, cloning facial animation, lip sync, integration, and personality construction. The goal is to create an AI system that can mimic human speech and facial expressions, and have a personality that resembles a real person. The project would require large amounts of data, powerful computing resources, and specialized algorithms.
 
 Neural Nexus 
 
