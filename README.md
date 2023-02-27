@@ -2,12 +2,11 @@ Creating an AI human
 
 Project - Digital Construct AI
 
-The idea is to create an AI human, called the Digital Construct AI, for the company Neural Nexus. This would be a complex project, requiring the development and integration of several different components, such as voice cloning speech synthesis, cloning facial animation, lip sync, integration, and personality construction. The goal is to create an AI system that can mimic human speech and facial expressions, and have a personality that resembles a real person. The project would require large amounts of data, powerful computing resources, and specialized algorithms.
+The idea is to create an AI human. This would be a complex project, requiring the development and integration of several different components, such as voice cloning speech synthesis, cloning facial animation, lip sync, integration, and personality construction. The goal is to create an AI system that can mimic human speech and facial expressions, and have a personality that resembles a real person. The project would require large amounts of data, powerful computing resources, and specialized algorithms.
 
-Company Name - Neural Nexus
+Neural Nexus 
 
-Complex endeavour, the more realistic the more expensive.
- There are several different components that would need to be developed and integrated in order to create a fully-functioning AI human, including:
+There are several different components that would need to be developed and integrated in order to create a fully-functioning AI human, including:
 
 Speech synthesis: This would involve using machine learning algorithms to train the AI to generate speech that sounds like a human. This would require a large dataset of human speech, as well as a powerful computer to process the data.
 
